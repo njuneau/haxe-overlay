@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <repositories version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>njuneau</name>
+    <name>haxe-overlay</name>
     <description lang="en">Haxe programming laguage</description>
     <homepage>https://github.com/njuneau/haxe-overlay</homepage>
     <owner type="person">
