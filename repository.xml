@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>haxe-overlay</name>
+    <description lang="en">Haxe programming laguage</description>
+    <homepage>https://github.com/njuneau/haxe-overlay</homepage>
+    <owner type="person">
+      <email>n.juneau@gmail.com</email>
+      <name>Nicolas Juneau</name>
+    </owner>
+    <source type="git">https://github.com/njuneau/haxe-overlay.git</source>
+    <feed>https://github.com/njuneau/haxe-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
